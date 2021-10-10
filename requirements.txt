@@ -1,1 +1,5 @@
-asdasfdsfsad
+python version 3.9.2
+
+pip version 20.2.3
+
+beautifulsoup4 version 4.9.3
